@@ -1,6 +1,7 @@
 # WearableDevice
-
-Total Knee Arthroplasty Recovery Monitoring Using a Wearable Device and Machine Learning Analysis  
+*******************************************************************************************************
+**Total Knee Arthroplasty Recovery Monitoring Using a Wearable Device and Machine Learning Analysis  **
+*******************************************************************************************************
 
 **Final Report PDF:** Document summarizing all the work
 
@@ -13,7 +14,7 @@ https://youtu.be/u2KNyBKBTR4
 
 The title of each column includes the label P_T_N. Last letter indicates if the column present a N: Normal, L:Limping, R: Running participant
 
-test_case: Is the jupyternotebook to analyze new data input. The new data needs to be put into a XXX.csv file with a header "qs". 
+**Test_case:** Is the jupyternotebook to analyze new data input. The new data needs to be put into a XXX.csv file with a header "qs". 
 
 **Presentation:** Includes the slides
 
